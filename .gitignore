@@ -1,0 +1,21 @@
+
+# Arquivos Power BI - aguardando revisão de segurança
+*.pbix
+
+# Dados locais
+*.csv
+
+# Credenciais e configurações privadas
+.env
+.env.*
+*.key
+*.pem
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+.vscode/
+.DS_Store
+Thumbs.db
